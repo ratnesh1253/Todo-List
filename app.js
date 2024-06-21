@@ -22,7 +22,7 @@ addTaskBtn.addEventListener("click", () => {
   }
 });
 
-//using event bubbling
+// Using event delegation for dynamically created elements
 taskList.addEventListener("click", (event) => {
   if (event.target.className == "delete") {
     let listItem = event.target.parentElement;
