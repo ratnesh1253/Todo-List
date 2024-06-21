@@ -1,4 +1,3 @@
-```markdown
 # To-Do List Web Application
 
 A simple web-based To-Do List application built using HTML, CSS and JavaScript. This application allows users to add tasks, mark them as completed, and delete tasks when necessary.
