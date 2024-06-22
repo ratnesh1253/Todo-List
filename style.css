@@ -12,10 +12,9 @@ body {
 }
 
 .container {
-    /* border: 2px solid #f26a8d; */
     box-shadow: 5px 5px 8px #f26a8d;
     border-radius: 20px;
-    margin-top: 100px;
+    margin: 100px 0;
     padding: 2rem 2rem 1rem 2rem;
     background-color: white;
 }
@@ -42,6 +41,10 @@ button {
     border: none;
     padding: 0.8rem 1.5rem 0.8rem 1.5rem;
     border-radius: 50px;
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 .input-section {
