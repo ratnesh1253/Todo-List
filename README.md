@@ -59,7 +59,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/ratnesh1253/todo-list.git
    ```
    
 2. Navigate into the project directory:
