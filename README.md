@@ -7,6 +7,10 @@ A simple web-based To-Do List application built using HTML, CSS and JavaScript. 
 ![Screenshot of the To-Do List Application](assets/screenshot3.JPG)
 ![Screenshot of the To-Do List Application](assets/screenshot4.JPG)
 
+## Demo
+
+[Watch the demo video](https://drive.google.com/file/d/1MbEN6pm7QQUvyvk4ib5vxyDmmVVBo5dF/view?usp=sharing)
+
 ## Features
 
 - **Add Task**: Users can enter a task in the input field and click the "ADD" button to add it to the list.
